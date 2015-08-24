@@ -1,0 +1,19 @@
+{
+  "name": "spb-frontend-082015-devtools",
+  "version": "0.0.1",
+  "authors": [
+    "Mikhail Baranov <mikhail.baranov@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "shower-core": "dev",
+    "shower-material": "git@github.com:shower/material.git"
+  }
+}
