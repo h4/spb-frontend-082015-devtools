@@ -14,6 +14,6 @@
   ],
   "dependencies": {
     "shower-core": "dev",
-    "shower-material": "git@github.com:shower/material.git"
+    "shower-ribbon": "git@github.com:shower/ribbon.git#next"
   }
 }
